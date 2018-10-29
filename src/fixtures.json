@@ -1,0 +1,19 @@
+{
+  "things": [
+    {
+      "id": "bEoKrHO",
+      "name": "The First Thing",
+      "stuff": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere libero mi. Quisque eu mollis ipsum, vitae venenatis diam."
+    },
+    {
+      "id": "B1wUGYE",
+      "name": "The Second Thing",
+      "stuff": "Mauris et turpis pretium, efficitur tortor vitae, molestie metus. Duis maximus sit amet turpis pulvinar laoreet. Nulla facilisis urna ac tellus viverra iaculis."
+    },
+    {
+      "id": "cKBO5oD",
+      "name": "The Third Thing",
+      "stuff": "Cras ut felis mattis nunc tincidunt accumsan vel vel ex. Integer ornare, orci eget ultricies dictum, nunc sapien laoreet ex, non egestas libero lorem eget mi."
+    }
+  ]
+}
