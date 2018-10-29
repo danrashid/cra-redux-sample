@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 export default ({ things }) => (
   <div>
+    <h2>All Things</h2>
     <ul>
       {things.map(({ id, name }) => (
         <li key={id}>
