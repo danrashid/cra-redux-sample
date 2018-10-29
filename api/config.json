@@ -1,0 +1,7 @@
+{
+  "delay": 750,
+  "port": 4000,
+  "routes": "api/routes.json",
+  "static": "node_modules/json-server/dist/",
+  "watch": true
+}
